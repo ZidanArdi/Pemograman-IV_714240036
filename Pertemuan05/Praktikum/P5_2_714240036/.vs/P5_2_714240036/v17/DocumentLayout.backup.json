@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\11. Pemograman .NET\\P5_2_714240036\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|d:\\11. pemograman .net\\p5_2_714240036\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|d:\\11. pemograman .net\\p5_2_714240036\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|solutionrelative:parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|d:\\11. pemograman .net\\p5_2_714240036\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|d:\\11. pemograman .net\\p5_2_714240036\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B990285C-5251-4A08-BBFB-8E9712049D76}|P5_2_714240036.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\11. Pemograman .NET\\P5_2_714240036\\ParentForm.cs",
+              "RelativeDocumentMoniker": "ParentForm.cs",
+              "ToolTip": "D:\\11. Pemograman .NET\\P5_2_714240036\\ParentForm.cs [Design]",
+              "RelativeToolTip": "ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:31:19.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\11. Pemograman .NET\\P5_2_714240036\\ParentForm.cs",
+              "RelativeDocumentMoniker": "ParentForm.cs",
+              "ToolTip": "D:\\11. Pemograman .NET\\P5_2_714240036\\ParentForm.cs",
+              "RelativeToolTip": "ParentForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:40:48.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\11. Pemograman .NET\\P5_2_714240036\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\11. Pemograman .NET\\P5_2_714240036\\ChildForm.cs",
+              "RelativeToolTip": "ChildForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:24:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "D:\\11. Pemograman .NET\\P5_2_714240036\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\11. Pemograman .NET\\P5_2_714240036\\ChildForm.cs [Design]",
+              "RelativeToolTip": "ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:53:04.657Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

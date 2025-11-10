@@ -1,0 +1,1 @@
+42. Terjadi eror dikarenakan progam tidak dapat menemukan atau mengenali variabel, kontrol, atau properti bernama OutputText didalam metode-metode yang sedang mencoba menggunakannya. Jika kita ingin tetap menggunakan OutputText maka kita harus membuat variabel string untuk menyimpan output.
