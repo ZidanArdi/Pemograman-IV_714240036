@@ -1,0 +1,8 @@
+D:\15. Pemograman 2\P4_1_714240036\bin\Debug\P4_1_714240036.exe.config
+D:\15. Pemograman 2\P4_1_714240036\bin\Debug\P4_1_714240036.exe
+D:\15. Pemograman 2\P4_1_714240036\bin\Debug\P4_1_714240036.pdb
+D:\15. Pemograman 2\P4_1_714240036\obj\Debug\P4_1_714240036.csproj.AssemblyReference.cache
+D:\15. Pemograman 2\P4_1_714240036\obj\Debug\P4_1_714240036.csproj.CoreCompileInputs.cache
+D:\15. Pemograman 2\P4_1_714240036\obj\Debug\P4_1_714240036.exe
+D:\15. Pemograman 2\P4_1_714240036\obj\Debug\P4_1_714240036.pdb
+D:\15. Pemograman 2\P4_1_714240036\obj\Debug\P4_1_714240036.exe.config
