@@ -1,0 +1,10 @@
+D:\11. Pemograman .NET\P6_1_714240036\bin\Debug\P6_1_714240036.exe.config
+D:\11. Pemograman .NET\P6_1_714240036\bin\Debug\P6_1_714240036.exe
+D:\11. Pemograman .NET\P6_1_714240036\bin\Debug\P6_1_714240036.pdb
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.csproj.AssemblyReference.cache
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.Form1.resources
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.Properties.Resources.resources
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.csproj.GenerateResource.cache
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.csproj.CoreCompileInputs.cache
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.exe
+D:\11. Pemograman .NET\P6_1_714240036\obj\Debug\P6_1_714240036.pdb
